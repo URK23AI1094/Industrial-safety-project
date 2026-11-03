@@ -1,0 +1,5 @@
+Target,Algorithm,Accuracy,Precision,Recall,F1-score
+Accident_Cause,Decision Tree,1.0,1.0,1.0,1.0
+Accident_Cause,Random Forest,1.0,1.0,1.0,1.0
+Safety_Category,Decision Tree,1.0,1.0,1.0,1.0
+Safety_Category,Random Forest,1.0,1.0,1.0,1.0
